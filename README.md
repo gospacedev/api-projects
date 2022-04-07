@@ -1,14 +1,31 @@
 # OpenWeather API
-> An OpenWeather API prototype
+> An OpenWeather API prototype implemetation
 
 ## Usage
 
-Gat a free API key from OpenWeather and paste it in .apiConfig:
+Get an API Weather Key from:
+
+https://openweathermap.org/
+
+and paste it in .apiConfig:
 
     {
-    "OpenWeatherMapApiKey":"<paste API key here>"
+    "OpenWeatherMapApiKey":"<paste-API-key-here>"
     }
 
-Test it by running main.go and pasting this to your browser:
+You can test it by running main.go and pasting this to your browser:
 
-    l
+    http://localhost:8000/hello
+
+Then enter this and a name of a city in your browser:
+
+    http://localhost:8000/weather/<name-of-a-city>
+    
+This format should show in your browser:
+
+    http://localhost:8000/weather/manila
+    {"Name":"Manila","main":{"temp":27.09}}
+    
+You can add more stats from their documentation:
+
+https://openweathermap.org/current
