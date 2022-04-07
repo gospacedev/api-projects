@@ -1,5 +1,5 @@
-# OpenWeather API
-> An OpenWeather API prototype implemetation
+# Weather API Prototype
+> A Weather API prototype implementation
 
 ## Usage
 
