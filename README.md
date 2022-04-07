@@ -1,4 +1,4 @@
-# Weather API Prototype
+# Open Weather
 > A Weather API prototype implementation
 
 ## Usage
