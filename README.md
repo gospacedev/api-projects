@@ -1,5 +1,5 @@
 # Open Weather
-> A Weather API prototype implementation
+> A Weather API implementation
 
 ## Usage
 
