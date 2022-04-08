@@ -1,4 +1,4 @@
-# Boredom Buster
+# Chuck Norris Jokes
 An app that gives you Chuck Norris jokes!
 
 ## Usage
