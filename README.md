@@ -1,5 +1,5 @@
 # Boredom Buster
-An app that gives you activites when your bored
+An app that gives you activites when your bored!
 
 ## Usage
 
