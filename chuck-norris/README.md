@@ -1,6 +1,8 @@
 # Chuck Norris Jokes
 An app that gives you Chuck Norris jokes!
 
+![alt text](http://url/to/img.png)
+
 ## Usage
 
 > Create a Go module and get fyne.io:
