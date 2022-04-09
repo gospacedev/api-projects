@@ -1,7 +1,7 @@
 # Chuck Norris Jokes
 An app that gives you Chuck Norris jokes!
 
-![image](https://github.com/gocoder-ai/fun-apis/edit/main/chuck-norris/Image.png)
+![image](github.com/gocoder-ai/fun-apis/chuck-norris/Image.png)
 
 ## Usage
 
