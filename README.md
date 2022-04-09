@@ -1,7 +1,7 @@
 # fun-apis
 A collection of fun implemented APIs!
 
-![Image](https://user-images.githubusercontent.com/83633399/162549856-1dbbea9e-e190-4734-b80f-626ef37ba656.png)
+![Image](https://user-images.githubusercontent.com/83633399/162551340-026b31b4-f062-406a-9b13-6a2e7974b886.png)
 
 ## APIs in this Repository
 
