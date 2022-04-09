@@ -1,7 +1,7 @@
 # Chuck Norris Jokes
 An app that gives you Chuck Norris jokes!
 
-![alt text](http://url/to/img.png)
+![image](https://ibb.co/GCGGS1p)
 
 ## Usage
 
