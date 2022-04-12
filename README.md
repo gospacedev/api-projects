@@ -9,10 +9,3 @@ A bunch of fun implemented APIs!
 - Open Weather
 
 - Boredom API
-
-## Tip Jar
-
-| Currency      | Address                                   |
-|---------------|-------------------------------------------|
-| Bitcoin       | bc1q4e0a95pcgpu8045mymkm2dsn0wrc9am27hkync|
-| Dogecoin      | DQmd5g1ZWex5QCksjBir2zCxGV3RytxFJ1        |
