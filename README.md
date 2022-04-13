@@ -12,4 +12,4 @@ A bunch of fun implemented APIs!
 
 ## Tip Jar
 
-BTC Address 36fm27KHEFTc1BnbuNEFLsuby8FM4KXFPx
+BTC Address: 36fm27KHEFTc1BnbuNEFLsuby8FM4KXFPx
