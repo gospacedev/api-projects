@@ -9,6 +9,3 @@ A bunch of fun implemented APIs!
 - Open Weather
 
 - Boredom API
-
-## Tip Jar
-
