@@ -9,3 +9,7 @@ A bunch of fun implemented APIs!
 - Open Weather
 
 - Boredom API
+
+## Tip Jar
+
+BTC 36fm27KHEFTc1BnbuNEFLsuby8FM4KXFPx
