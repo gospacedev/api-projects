@@ -1,6 +1,9 @@
 # api-builds
 A bunch of fun implemented APIs!
 
+![For Coffee](https://img.shields.io/badge/BTC-For%20Coffee-green)
+`1HgvMhBraWpr6c72VTjgF2KVZftCDp6Zst`
+
 ![Image](https://user-images.githubusercontent.com/83633399/162551340-026b31b4-f062-406a-9b13-6a2e7974b886.png)
 
 ## APIs in this Repository
