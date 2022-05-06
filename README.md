@@ -12,4 +12,4 @@ A bunch of fun implemented APIs!
 
 - Boredom API
 
-Support Me: [Donate Bitcoin to gocrazygh](https://gocrazygh.github.io/gocrazygh/donate)
+Donate Bitcoin: 1J2aMYUnkPXkzEYJUaZY5AKRGZU459NUrG
